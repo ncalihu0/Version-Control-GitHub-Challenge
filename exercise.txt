@@ -1,0 +1,8 @@
+ 1. Explain what the terminal is in your own words.
+	A terminal refers to a command line prompt that allows users to input text-based commands on their computer. You use these commands to navigate the device by creating folders, editing files, changing directories, removing files, and performing other functions. It is also possible to use git in the terminal to take snapshots of files for future reference.
+
+2. What is the major difference between Git and GitHub?
+	Git is a version control system. You can change your files locally and save them into a repository. You're not required to be on a network to make these changes. Meanwhile, GitHub is a cloud-based service where you can put the folder you've created onto the web. It allows other users to look at your code and make edits.
+
+3.  What are the steps to fork a GitHub repository?
+	If you want to make a copy of another user's GitHub repository and modify its content without affecting the original files, you can fork it. Select the repository you want to copy and click on the "fork" button. It will take you to the "Create a new fork" page, where you can select the green "Create Fork" button. It will create a copy of the user's code in your repository. If you want to add it to your local device, you can do so through the terminal.
